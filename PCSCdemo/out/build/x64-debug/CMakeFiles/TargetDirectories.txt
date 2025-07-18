@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/c_project/vs_project/PCSCdemo/out/build/x64-debug/CMakeFiles/PCSCdemo.dir
+C:/Users/Administrator/Desktop/c_project/vs_project/PCSCdemo/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/c_project/vs_project/PCSCdemo/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

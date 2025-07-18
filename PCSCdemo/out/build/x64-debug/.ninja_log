@@ -1,0 +1,17 @@
+# ninja log v6
+237	656	7743634692378236	PCSCdemo.exe	b4ec927969117b8a
+15	296	7743626047826365	CMakeFiles/PCSCdemo.dir/PCSCdemo.c.obj	544edf9947cafa50
+15	237	7743634690145013	CMakeFiles/PCSCdemo.dir/connection.c.obj	f664ad22a56a8e24
+23	305	7743626047927101	CMakeFiles/PCSCdemo.dir/send.c.obj	aaa166bc94281a2
+8	298	7743460000035783	CMakeFiles/PCSCdemo.dir/connect.c.obj	eff55fb6d6cc9bb5
+16	261	7743627234667510	CMakeFiles/PCSCdemo.dir/list.c.obj	e637dacbe690ac52
+18	287	7743626047876447	CMakeFiles/PCSCdemo.dir/establish.c.obj	cf4f92b4d589b668
+29	308	7743626047979944	CMakeFiles/PCSCdemo.dir/tools.c.obj	1bfe64f53d1ea52c
+50	736	7744402293009841	CMakeFiles/PCSCdemo.dir/tools.c.obj	1bfe64f53d1ea52c
+44	741	7744402292946015	CMakeFiles/PCSCdemo.dir/send.c.obj	aaa166bc94281a2
+53	744	7744402293039879	CMakeFiles/PCSCdemo.dir/handle.c.obj	a31943c908b275b0
+41	746	7744402292922372	CMakeFiles/PCSCdemo.dir/list.c.obj	e637dacbe690ac52
+39	749	7744402292894247	CMakeFiles/PCSCdemo.dir/establish.c.obj	cf4f92b4d589b668
+35	752	7744402292853569	CMakeFiles/PCSCdemo.dir/PCSCdemo.c.obj	544edf9947cafa50
+47	756	7744402292981886	CMakeFiles/PCSCdemo.dir/connection.c.obj	f664ad22a56a8e24
+756	1096	7744402300064691	PCSCdemo.exe	461349e19f726042
