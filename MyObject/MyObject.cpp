@@ -5,6 +5,7 @@
 #include <winscard.h>
 int main()
 {
+	//修改
     cout << "Hello World!\n";
 }
 
