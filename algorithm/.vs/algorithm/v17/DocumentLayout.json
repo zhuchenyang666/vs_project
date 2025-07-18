@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\rsa_sign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|solutionrelative:rsa_sign.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\aes_gcm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|solutionrelative:aes_gcm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|solutionrelative:type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\sha256.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01EE63CE-008A-4094-9FAE-E85D619F714B}|algorithm.vcxproj|solutionrelative:sha256.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sha256.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\sha256.c",
+              "RelativeDocumentMoniker": "sha256.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\sha256.c",
+              "RelativeToolTip": "sha256.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-27T01:49:20.808Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "type.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\type.h",
+              "RelativeDocumentMoniker": "type.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\type.h",
+              "RelativeToolTip": "type.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-27T01:48:38.864Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rsa_sign.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\rsa_sign.c",
+              "RelativeDocumentMoniker": "rsa_sign.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\rsa_sign.c",
+              "RelativeToolTip": "rsa_sign.c",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-30T05:55:52.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "aes_gcm.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\aes_gcm.c",
+              "RelativeDocumentMoniker": "aes_gcm.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\aes_gcm.c",
+              "RelativeToolTip": "aes_gcm.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-27T06:14:16.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\algorithm\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-27T01:19:47.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
