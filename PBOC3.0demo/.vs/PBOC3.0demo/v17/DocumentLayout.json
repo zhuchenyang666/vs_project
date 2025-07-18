@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tlv_parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|solutionrelative:tlv_parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|solutionrelative:parser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\format.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|solutionrelative:format.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|solutionrelative:tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tag_init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|solutionrelative:tag_init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\PBOC3.0demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|solutionrelative:PBOC3.0demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D47E6BC2-7154-40D3-B14A-4BADED59E6F5}|PBOC3.0demo.vcxproj|solutionrelative:head.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "format.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\format.cpp",
+              "RelativeDocumentMoniker": "format.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\format.cpp",
+              "RelativeToolTip": "format.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T02:49:39.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tools.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tools.cpp",
+              "RelativeDocumentMoniker": "tools.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tools.cpp",
+              "RelativeToolTip": "tools.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T11:35:01.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "head.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\head.h",
+              "RelativeDocumentMoniker": "head.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\head.h",
+              "RelativeToolTip": "head.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-16T10:12:48.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tag_init.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tag_init.cpp",
+              "RelativeDocumentMoniker": "tag_init.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tag_init.cpp",
+              "RelativeToolTip": "tag_init.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T10:11:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PBOC3.0demo.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\PBOC3.0demo.cpp",
+              "RelativeDocumentMoniker": "PBOC3.0demo.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\PBOC3.0demo.cpp",
+              "RelativeToolTip": "PBOC3.0demo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T10:11:34.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "parser.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\parser.cpp",
+              "RelativeDocumentMoniker": "parser.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\parser.cpp",
+              "RelativeToolTip": "parser.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T10:11:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tlv_parser.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tlv_parser.cpp",
+              "RelativeDocumentMoniker": "tlv_parser.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\c_project\\vs_project\\PBOC3.0demo\\tlv_parser.cpp",
+              "RelativeToolTip": "tlv_parser.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T00:53:29.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
